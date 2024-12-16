@@ -1,3 +1,4 @@
+2024-12-16 17:01:37 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31430 | Name: Antena Goiânia - GO - Off-line | IP: 127.0.0.1 | DNS: 
 2024-12-16 16:34:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31428 | Name: Antena Goiânia - GO - Off-line | IP: 127.0.0.1 | DNS: 
 2024-12-16 16:07:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31422 | Name: Antena Goiânia - GO - Off-line | IP: 127.0.0.1 | DNS: 
 2024-12-16 15:58:37 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31420 | Name: Antena Goiânia - GO - Off-line | IP: 127.0.0.1 | DNS: 
