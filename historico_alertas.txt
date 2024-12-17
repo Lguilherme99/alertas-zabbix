@@ -1,5 +1,6 @@
 Informações abaixo são de Histórico de alertas já RESOLVIDOS.
 
+2024-12-17 20:28:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 32157 | Name: Antena Porto Alegre - RS - | IP: 127.0.0.1 | DNS: 
 2024-12-17 20:20:31 | Host: Monitoramentos-Web | Severity: High | Status: RESOLVED | Event ID: 32155 | Name: WebSite GLMonitoria - falha de acesso. | IP: 127.0.0.1 | DNS: 
 2024-12-17 19:58:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 32153 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br
 2024-12-17 19:45:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 32150 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br
