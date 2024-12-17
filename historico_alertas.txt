@@ -266,4 +266,3 @@ Informações abaixo são de Histórico de alertas já RESOLVIDOS.
 2024-12-10 17:23:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 27610 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br
 2024-12-10 17:16:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 27608 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br
 2024-12-10 16:46:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 27606 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br
-2024-12-10 16:39:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 27604 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br
