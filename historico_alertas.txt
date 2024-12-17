@@ -276,4 +276,3 @@ Informações abaixo são de Histórico de alertas já RESOLVIDOS.
 2024-12-10 14:47:50 | Host: DVR - Vila do Sol | Severity: High | Status: RESOLVED | Event ID: 27478 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbscampobelo100.ddns-intelbras.com.br
 2024-12-10 14:47:39 | Host: DVR - Vila do Sol | Severity: High | Status: RESOLVED | Event ID: 27477 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbscampobelo100.ddns-intelbras.com.br
 2024-12-10 14:46:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 27476 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
-2024-12-10 14:25:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 27474 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
