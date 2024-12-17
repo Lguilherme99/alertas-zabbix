@@ -1,5 +1,26 @@
 Informações abaixo são de Histórico de alertas já RESOLVIDOS.
 
+2024-12-17 08:00:31 | Host: Monitoramentos-Web | Severity: High | Status: RESOLVED | Event ID: 31689 | Name: WebSite GLMonitoria - falha de acesso. | IP: 127.0.0.1 | DNS: 
+2024-12-17 07:52:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31687 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
+2024-12-17 07:31:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31685 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
+2024-12-17 06:30:46 | Host: DVR - Campo Verde | Severity: High | Status: RESOLVED | Event ID: 31684 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbssorocaba001.ddns-intelbras.com.br
+2024-12-17 06:29:57 | Host: DVR - Campo Verde | Severity: High | Status: RESOLVED | Event ID: 31683 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbssorocaba001.ddns-intelbras.com.br
+2024-12-17 04:42:50 | Host: DVR - Vila do Sol | Severity: High | Status: RESOLVED | Event ID: 31676 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbscampobelo100.ddns-intelbras.com.br
+2024-12-17 03:01:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31669 | Name: Antena Porto Alegre - RS - | IP: 127.0.0.1 | DNS: 
+2024-12-17 03:01:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31668 | Name: Antena São Paulo - SP - | IP: 127.0.0.1 | DNS: 
+2024-12-17 02:00:50 | Host: DVR - Praia Branca | Severity: High | Status: RESOLVED | Event ID: 31659 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbspirituba100.ddns-intelbras.com.br
+2024-12-17 02:00:49 | Host: DVR - Monte Claro | Severity: High | Status: RESOLVED | Event ID: 31658 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsscmaua10.ddns-intelbras.com.br
+2024-12-17 02:00:47 | Host: DVR - Estrela do Mar | Severity: High | Status: RESOLVED | Event ID: 31657 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsmarajoara11.ddns-intelbras.com.br
+2024-12-17 02:00:45 | Host: DVR - Vila do Sol | Severity: High | Status: RESOLVED | Event ID: 31656 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbscampobelo100.ddns-intelbras.com.br
+2024-12-17 02:00:43 | Host: DVR - Monte Claro | Severity: High | Status: RESOLVED | Event ID: 31655 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsscmaua10.ddns-intelbras.com.br
+2024-12-17 02:00:39 | Host: DVR - Praia Branca | Severity: High | Status: RESOLVED | Event ID: 31654 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbspirituba100.ddns-intelbras.com.br
+2024-12-17 02:00:36 | Host: DVR - Estrela do Mar | Severity: High | Status: RESOLVED | Event ID: 31653 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsmarajoara11.ddns-intelbras.com.br
+2024-12-17 02:00:34 | Host: DVR - Vila do Sol | Severity: High | Status: RESOLVED | Event ID: 31652 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbscampobelo100.ddns-intelbras.com.br
+2024-12-16 23:00:53 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 31547 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br
+2024-12-16 23:00:42 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 31546 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br
+2024-12-16 22:00:43 | Host: DVR - Monte Claro | Severity: High | Status: RESOLVED | Event ID: 31544 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsscmaua10.ddns-intelbras.com.br
+2024-12-16 21:01:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31537 | Name: Antena Porto Alegre - RS - | IP: 127.0.0.1 | DNS: 
+2024-12-16 21:01:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31536 | Name: Antena São Paulo - SP - | IP: 127.0.0.1 | DNS: 
 2024-12-16 18:45:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 31432 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br
 2024-12-16 17:01:37 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31430 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
 2024-12-16 16:34:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31428 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
@@ -261,19 +282,3 @@ Informações abaixo são de Histórico de alertas já RESOLVIDOS.
 2024-12-10 11:11:36 | Host: DVR - Campos Verdes | Severity: High | Status: RESOLVED | Event ID: 27449 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsalphaville10.ddns-intelbras.com.br
 2024-12-10 11:10:49 | Host: DVR - Campos Verdes | Severity: High | Status: RESOLVED | Event ID: 27448 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsalphaville10.ddns-intelbras.com.br
 2024-12-10 10:43:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 27442 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
-2024-12-10 08:01:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 27436 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
-2024-12-10 03:01:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 27434 | Name: Antena Porto Alegre - RS - | IP: 127.0.0.1 | DNS: 
-2024-12-10 02:47:49 | Host: DVR - Campos Verdes | Severity: High | Status: RESOLVED | Event ID: 27432 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsalphaville10.ddns-intelbras.com.br
-2024-12-10 02:30:31 | Host: Monitoramentos-Web | Severity: High | Status: RESOLVED | Event ID: 27430 | Name: WebSite GLMonitoria - falha de acesso. | IP: 127.0.0.1 | DNS: 
-2024-12-10 02:00:50 | Host: DVR - Praia Branca | Severity: High | Status: RESOLVED | Event ID: 27421 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbspirituba100.ddns-intelbras.com.br
-2024-12-10 02:00:49 | Host: DVR - Monte Claro | Severity: High | Status: RESOLVED | Event ID: 27420 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsscmaua10.ddns-intelbras.com.br
-2024-12-10 02:00:47 | Host: DVR - Estrela do Mar | Severity: High | Status: RESOLVED | Event ID: 27419 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsmarajoara11.ddns-intelbras.com.br
-2024-12-10 02:00:46 | Host: DVR - Vila do Sol | Severity: High | Status: RESOLVED | Event ID: 27418 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbscampobelo100.ddns-intelbras.com.br
-2024-12-10 02:00:43 | Host: DVR - Monte Claro | Severity: High | Status: RESOLVED | Event ID: 27417 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsscmaua10.ddns-intelbras.com.br
-2024-12-10 02:00:39 | Host: DVR - Praia Branca | Severity: High | Status: RESOLVED | Event ID: 27416 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbspirituba100.ddns-intelbras.com.br
-2024-12-10 02:00:36 | Host: DVR - Estrela do Mar | Severity: High | Status: RESOLVED | Event ID: 27415 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsmarajoara11.ddns-intelbras.com.br
-2024-12-10 02:00:34 | Host: DVR - Vila do Sol | Severity: High | Status: RESOLVED | Event ID: 27414 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbscampobelo100.ddns-intelbras.com.br
-2024-12-09 23:37:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 27412 | Name: Antena São Paulo - SP - | IP: 127.0.0.1 | DNS: 
-2024-12-09 23:00:53 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 27409 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br
-2024-12-09 23:00:42 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 27408 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br
-2024-12-09 21:01:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 27406 | Name: Antena Porto Alegre - RS - | IP: 127.0.0.1 | DNS: 
