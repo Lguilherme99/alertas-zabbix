@@ -1,5 +1,6 @@
 Informações abaixo são de Histórico de alertas já RESOLVIDOS.
 
+2024-12-17 10:16:37 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31795 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
 2024-12-17 10:07:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31772 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
 2024-12-17 08:00:31 | Host: Monitoramentos-Web | Severity: High | Status: RESOLVED | Event ID: 31689 | Name: WebSite GLMonitoria - falha de acesso. | IP: 127.0.0.1 | DNS: 
 2024-12-17 07:52:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31687 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
