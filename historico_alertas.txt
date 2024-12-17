@@ -1,5 +1,6 @@
 Informações abaixo são de Histórico de alertas já RESOLVIDOS.
 
+2024-12-17 11:13:37 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31797 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
 2024-12-17 10:16:37 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31795 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
 2024-12-17 10:07:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31772 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
 2024-12-17 08:00:31 | Host: Monitoramentos-Web | Severity: High | Status: RESOLVED | Event ID: 31689 | Name: WebSite GLMonitoria - falha de acesso. | IP: 127.0.0.1 | DNS: 
@@ -281,5 +282,3 @@ Informações abaixo são de Histórico de alertas já RESOLVIDOS.
 2024-12-10 12:31:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 27456 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
 2024-12-10 12:19:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 27454 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
 2024-12-10 11:31:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 27450 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
-2024-12-10 11:11:36 | Host: DVR - Campos Verdes | Severity: High | Status: RESOLVED | Event ID: 27449 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsalphaville10.ddns-intelbras.com.br
-2024-12-10 11:10:49 | Host: DVR - Campos Verdes | Severity: High | Status: RESOLVED | Event ID: 27448 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsalphaville10.ddns-intelbras.com.br
