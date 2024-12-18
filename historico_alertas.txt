@@ -261,4 +261,3 @@ Informações abaixo são de Histórico de alertas já RESOLVIDOS.
 2024-12-11 10:49:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 28096 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
 2024-12-11 10:04:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 28094 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
 2024-12-11 09:52:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 27990 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
-2024-12-11 09:36:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 27987 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br
