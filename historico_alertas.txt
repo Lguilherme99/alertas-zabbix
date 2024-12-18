@@ -1,5 +1,6 @@
 Informações abaixo são de Histórico de alertas já RESOLVIDOS.
 
+2024-12-17 23:36:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 32177 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br
 2024-12-17 23:00:53 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 32174 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br
 2024-12-17 23:00:42 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 32173 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br
 2024-12-17 21:01:37 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 32161 | Name: Antena Recife - PE - | IP: 127.0.0.1 | DNS: 
