@@ -276,4 +276,3 @@ Informações abaixo são de Histórico de alertas já RESOLVIDOS.
 2024-12-11 01:08:41 | Host: DVR - Estrela do Mar | Severity: High | Status: RESOLVED | Event ID: 27741 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsmarajoara11.ddns-intelbras.com.br
 2024-12-11 01:07:52 | Host: DVR - Estrela do Mar | Severity: High | Status: RESOLVED | Event ID: 27740 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsmarajoara11.ddns-intelbras.com.br
 2024-12-11 00:21:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 27738 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br
-2024-12-10 23:56:46 | Host: DVR - Campo Verde | Severity: High | Status: RESOLVED | Event ID: 27736 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbssorocaba001.ddns-intelbras.com.br
