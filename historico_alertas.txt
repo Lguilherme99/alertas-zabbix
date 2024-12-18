@@ -1,5 +1,6 @@
 Informações abaixo são de Histórico de alertas já RESOLVIDOS.
 
+2024-12-18 14:31:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33137 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
 2024-12-18 14:22:37 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33135 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
 2024-12-18 13:37:37 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 32929 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
 2024-12-18 13:07:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 32723 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
