@@ -266,5 +266,3 @@ Informações abaixo são de Histórico de alertas já RESOLVIDOS.
 2024-12-11 03:01:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 27966 | Name: Antena São Paulo - SP - | IP: 127.0.0.1 | DNS: 
 2024-12-11 01:32:52 | Host: DVR - Estrela do Mar | Severity: High | Status: RESOLVED | Event ID: 27963 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsmarajoara11.ddns-intelbras.com.br
 2024-12-11 01:32:41 | Host: DVR - Estrela do Mar | Severity: High | Status: RESOLVED | Event ID: 27962 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsmarajoara11.ddns-intelbras.com.br
-2024-12-11 01:29:52 | Host: DVR - Estrela do Mar | Severity: High | Status: RESOLVED | Event ID: 27960 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsmarajoara11.ddns-intelbras.com.br
-2024-12-11 01:26:52 | Host: DVR - Estrela do Mar | Severity: High | Status: RESOLVED | Event ID: 27907 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsmarajoara11.ddns-intelbras.com.br
