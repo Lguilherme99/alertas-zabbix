@@ -277,4 +277,3 @@ Informações abaixo são de Histórico de alertas já RESOLVIDOS.
 2024-12-10 23:41:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 27734 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br
 2024-12-10 23:00:53 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 27731 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br
 2024-12-10 23:00:42 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 27730 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br
-2024-12-10 22:26:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 27728 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br
