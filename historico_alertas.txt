@@ -1,5 +1,6 @@
 Informações abaixo são de Histórico de alertas já RESOLVIDOS.
 
+2024-12-19 08:37:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33498 | Name: Antena Curitiba - PR - | IP: 127.0.0.1 | DNS: 
 2024-12-19 08:22:37 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33495 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
 2024-12-19 07:52:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33493 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
 2024-12-19 07:22:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33491 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
