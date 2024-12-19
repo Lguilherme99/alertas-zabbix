@@ -249,4 +249,3 @@ Informações abaixo são de Histórico de alertas já RESOLVIDOS.
 2024-12-12 13:19:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 29246 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
 2024-12-12 13:07:46 | Host: DVR - Campo Verde | Severity: High | Status: RESOLVED | Event ID: 29243 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbssorocaba001.ddns-intelbras.com.br
 2024-12-12 13:04:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 29242 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
-2024-12-12 12:48:46 | Host: DVR - Campo Verde | Severity: High | Status: RESOLVED | Event ID: 29239 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbssorocaba001.ddns-intelbras.com.br
