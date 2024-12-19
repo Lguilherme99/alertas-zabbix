@@ -1,5 +1,7 @@
 Informações abaixo são de Histórico de alertas já RESOLVIDOS.
 
+2024-12-18 23:00:53 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 33368 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br
+2024-12-18 23:00:42 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 33367 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br
 2024-12-18 17:43:37 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33259 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
 2024-12-18 16:37:37 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33155 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
 2024-12-18 16:19:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33153 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
@@ -254,5 +256,3 @@ Informações abaixo são de Histórico de alertas já RESOLVIDOS.
 2024-12-12 02:04:49 | Host: DVR - Campos Verdes | Severity: High | Status: RESOLVED | Event ID: 28981 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsalphaville10.ddns-intelbras.com.br
 2024-12-12 02:03:38 | Host: DVR - Campos Verdes | Severity: High | Status: RESOLVED | Event ID: 28979 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsalphaville10.ddns-intelbras.com.br
 2024-12-12 00:13:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 28977 | Name: Antena São Paulo - SP - | IP: 127.0.0.1 | DNS: 
-2024-12-11 23:00:53 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 28668 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br
-2024-12-11 23:00:42 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 28667 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br
