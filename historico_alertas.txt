@@ -239,4 +239,3 @@ Informações abaixo são de Histórico de alertas já RESOLVIDOS.
 2024-12-12 23:00:53 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 29709 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br
 2024-12-12 23:00:43 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 29708 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br
 2024-12-12 17:34:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 29382 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
-2024-12-12 17:16:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 29380 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
