@@ -1,5 +1,7 @@
 Informações abaixo são de Histórico de alertas já RESOLVIDOS.
 
+2024-12-19 14:43:48 | Host: DVR - Jardim Horizonte | Severity: High | Status: RESOLVED | Event ID: 33855 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbs2181.dyndns.org
+2024-12-19 14:43:40 | Host: DVR - Jardim Horizonte | Severity: High | Status: RESOLVED | Event ID: 33854 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbs2181.dyndns.org
 2024-12-19 13:46:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33853 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
 2024-12-19 13:37:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33851 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
 2024-12-19 13:16:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33849 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
