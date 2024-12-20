@@ -1,5 +1,7 @@
 Informações abaixo são de Histórico de alertas já RESOLVIDOS.
 
+2024-12-20 12:55:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 34697 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br
+2024-12-20 12:55:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 34696 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br
 2024-12-20 11:51:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 34694 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br
 2024-12-20 11:37:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 34692 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br
 2024-12-20 10:16:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 34690 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br
@@ -220,4 +222,3 @@ Informações abaixo são de Histórico de alertas já RESOLVIDOS.
 2024-12-13 13:08:57 | Host: DVR - Campo Verde | Severity: High | Status: RESOLVED | Event ID: 30074 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbssorocaba001.ddns-intelbras.com.br
 2024-12-13 13:07:46 | Host: DVR - Campo Verde | Severity: High | Status: RESOLVED | Event ID: 30072 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbssorocaba001.ddns-intelbras.com.br
 2024-12-13 13:01:38 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 30070 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
-2024-12-13 12:56:46 | Host: DVR - Campo Verde | Severity: High | Status: RESOLVED | Event ID: 30068 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbssorocaba001.ddns-intelbras.com.br
