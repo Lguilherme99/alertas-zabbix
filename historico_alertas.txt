@@ -1,5 +1,6 @@
 Informações abaixo são de Histórico de alertas já RESOLVIDOS.
 
+2024-12-20 07:20:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 34480 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br
 2024-12-20 03:01:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 34374 | Name: Antena Salvador - BA - | IP: 127.0.0.1 | DNS: 
 2024-12-19 23:00:53 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 34071 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br
 2024-12-19 23:00:42 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 34070 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br
@@ -235,4 +236,3 @@ Informações abaixo são de Histórico de alertas já RESOLVIDOS.
 2024-12-13 07:40:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 30034 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
 2024-12-13 07:29:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 30031 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br
 2024-12-13 07:27:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 30029 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br
-2024-12-13 07:22:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 30028 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
