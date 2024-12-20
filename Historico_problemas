@@ -1,0 +1,217 @@
+Problemas ATIVOS:
+
+2024-12-17 06:30:46 | Host: DVR - Campo Verde | Severity: High | Status: PROBLEM | Trigger ID: 23854 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbssorocaba001.ddns-intelbras.com.br | PROBLEMA: ATIVO
+2024-12-17 06:29:57 | Host: DVR - Campo Verde | Severity: High | Status: PROBLEM | Trigger ID: 23865 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbssorocaba001.ddns-intelbras.com.br | PROBLEMA: ATIVO
+2024-12-04 08:40:35 | Host: Monitoramento-Antenas | Severity: High | Status: PROBLEM | Trigger ID: 23827 | Name: Antena Curitiba - PR - Off-line | IP: 127.0.0.1 | PROBLEMA: ATIVO 
+2024-11-12 15:26:53 | Host: Monitoramento-Antenas | Severity: High | Status: PROBLEM | Trigger ID: 23841 | Name: Antena Brasília - DF - Off-line | IP: 127.0.0.1 | PROBLEMA: ATIVO 
+2024-11-12 15:26:53 | Host: Monitoramento-Antenas | Severity: High | Status: PROBLEM | Trigger ID: 23840 | Name: Antena Florianópolis - SC Off-line | IP: 127.0.0.1 | PROBLEMA: ATIVO
+
+Problemas RESOLVIDOS:
+
+2024-12-20 15:56:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 34722 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-20 15:34:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 34720 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-20 15:31:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 34718 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-20 15:29:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 34716 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-20 15:07:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 34714 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-20 14:46:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 34710 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-20 13:47:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 34708 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-20 13:42:31 | Host: Monitoramentos-Web | Severity: High | Status: RESOLVED | Event ID: 34706 | Name: WebSite GLMonitoria - falha de acesso. | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-20 13:20:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 34704 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-20 13:16:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 34702 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-20 13:06:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 34700 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-20 12:55:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 34697 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-20 12:55:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 34696 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-20 11:51:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 34694 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-20 11:37:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 34692 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-20 10:16:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 34690 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-20 07:37:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 34482 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-20 07:20:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 34480 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-20 03:01:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 34374 | Name: Antena Salvador - BA - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-19 23:00:53 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 34071 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-19 23:00:42 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 34070 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-19 21:01:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 34060 | Name: Antena Recife - PE - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-19 17:11:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 33958 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-19 14:43:48 | Host: DVR - Jardim Horizonte | Severity: High | Status: RESOLVED | Event ID: 33855 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbs2181.dyndns.org	PROBLEMA: RESOLVIDO
+2024-12-19 14:43:40 | Host: DVR - Jardim Horizonte | Severity: High | Status: RESOLVED | Event ID: 33854 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbs2181.dyndns.org	PROBLEMA: RESOLVIDO
+2024-12-19 13:46:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33853 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-19 13:37:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33851 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-19 13:16:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33849 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-19 13:10:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33847 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-19 13:04:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33845 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-19 12:16:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33739 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-19 12:10:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33714 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-19 11:55:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33630 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-19 11:31:37 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33628 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-19 11:13:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33626 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-19 11:04:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33624 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-19 10:55:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33622 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-19 10:01:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33620 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-19 09:43:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33613 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-19 09:34:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33611 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-19 09:25:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33507 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-19 09:16:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33505 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-19 08:40:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33499 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-19 08:37:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33498 | Name: Antena Curitiba - PR - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-19 08:22:37 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33495 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-19 07:52:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33493 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-19 07:22:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33491 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-19 06:42:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 33488 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-19 06:42:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 33487 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-19 06:39:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 33485 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-19 03:01:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33475 | Name: Antena Salvador - BA - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-18 23:00:53 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 33368 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-18 23:00:42 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 33367 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-18 17:43:37 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33259 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-18 16:37:37 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33155 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-18 16:19:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33153 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-18 15:58:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33151 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-18 15:22:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33149 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-18 15:13:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33147 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-18 15:04:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33143 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-18 14:43:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33141 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-18 14:35:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 33138 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-18 14:31:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33137 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-18 14:22:37 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 33135 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-18 13:37:37 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 32929 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-18 13:07:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 32723 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-18 13:01:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 32721 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-18 12:40:37 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 32617 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-18 12:34:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 32615 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-18 12:13:37 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 32613 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-18 12:07:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 32611 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-18 11:28:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 32609 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-18 11:16:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 32607 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-18 10:46:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 32482 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-18 09:33:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 32395 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-18 09:16:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 32393 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-18 07:55:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 32391 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-18 07:46:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 32389 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-18 07:31:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 32387 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-18 03:01:37 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 32383 | Name: Antena Salvador - BA - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-17 23:36:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 32177 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-17 23:00:53 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 32174 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-17 23:00:42 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 32173 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-17 21:01:37 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 32161 | Name: Antena Recife - PE - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-17 20:43:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 32159 | Name: Antena Porto Alegre - RS - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-17 20:28:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 32157 | Name: Antena Porto Alegre - RS - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-17 20:20:31 | Host: Monitoramentos-Web | Severity: High | Status: RESOLVED | Event ID: 32155 | Name: WebSite GLMonitoria - falha de acesso. | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-17 19:58:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 32153 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-17 19:45:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 32150 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-17 19:45:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 32149 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-17 19:02:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 32147 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-17 18:22:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 32144 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-17 18:22:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 32143 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-17 18:17:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 32141 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-17 18:14:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 32139 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-17 17:48:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 32137 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-17 17:39:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 32134 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-17 17:39:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 32133 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-17 17:32:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 32131 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-17 17:26:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 32129 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-17 15:37:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 32127 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-17 14:52:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 32125 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-17 14:48:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 32123 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-17 14:31:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 32121 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-17 14:22:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 32098 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-17 13:43:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31913 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-17 13:16:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31909 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-17 13:07:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31905 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-17 12:43:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31903 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-17 12:01:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31799 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-17 11:13:37 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31797 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-17 10:16:37 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31795 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-17 10:07:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31772 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-17 08:00:31 | Host: Monitoramentos-Web | Severity: High | Status: RESOLVED | Event ID: 31689 | Name: WebSite GLMonitoria - falha de acesso. | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-17 07:52:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31687 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-17 07:31:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31685 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-17 06:30:46 | Host: DVR - Campo Verde | Severity: High | Status: RESOLVED | Event ID: 31684 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbssorocaba001.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-17 06:29:57 | Host: DVR - Campo Verde | Severity: High | Status: RESOLVED | Event ID: 31683 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbssorocaba001.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-17 04:42:50 | Host: DVR - Vila do Sol | Severity: High | Status: RESOLVED | Event ID: 31676 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbscampobelo100.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-17 03:01:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31669 | Name: Antena Porto Alegre - RS - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-17 03:01:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31668 | Name: Antena São Paulo - SP - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-17 02:00:50 | Host: DVR - Praia Branca | Severity: High | Status: RESOLVED | Event ID: 31659 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbspirituba100.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-17 02:00:49 | Host: DVR - Monte Claro | Severity: High | Status: RESOLVED | Event ID: 31658 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsscmaua10.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-17 02:00:47 | Host: DVR - Estrela do Mar | Severity: High | Status: RESOLVED | Event ID: 31657 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsmarajoara11.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-17 02:00:45 | Host: DVR - Vila do Sol | Severity: High | Status: RESOLVED | Event ID: 31656 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbscampobelo100.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-17 02:00:43 | Host: DVR - Monte Claro | Severity: High | Status: RESOLVED | Event ID: 31655 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsscmaua10.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-17 02:00:39 | Host: DVR - Praia Branca | Severity: High | Status: RESOLVED | Event ID: 31654 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbspirituba100.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-17 02:00:36 | Host: DVR - Estrela do Mar | Severity: High | Status: RESOLVED | Event ID: 31653 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsmarajoara11.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-17 02:00:34 | Host: DVR - Vila do Sol | Severity: High | Status: RESOLVED | Event ID: 31652 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbscampobelo100.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-16 23:00:53 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 31547 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-16 23:00:42 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 31546 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-16 22:00:43 | Host: DVR - Monte Claro | Severity: High | Status: RESOLVED | Event ID: 31544 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsscmaua10.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-16 21:01:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31537 | Name: Antena Porto Alegre - RS - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 21:01:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31536 | Name: Antena São Paulo - SP - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 18:45:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 31432 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-16 17:01:37 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31430 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 16:34:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31428 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 16:07:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31422 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 15:58:37 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31420 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 15:49:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31418 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 15:19:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31416 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 15:13:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31414 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 15:04:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31412 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 14:55:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31410 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 14:37:46 | Host: DVR - Campo Verde | Severity: High | Status: RESOLVED | Event ID: 31407 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbssorocaba001.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-16 14:34:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31406 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 14:28:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31404 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 14:22:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31402 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 14:16:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31400 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 13:19:37 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31396 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 13:04:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31394 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 13:01:52 | Host: DVR - Estrela do Mar | Severity: High | Status: RESOLVED | Event ID: 31393 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsmarajoara11.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-16 13:01:41 | Host: DVR - Estrela do Mar | Severity: High | Status: RESOLVED | Event ID: 31392 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsmarajoara11.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-16 12:37:47 | Host: DVR - Campo Verde | Severity: High | Status: RESOLVED | Event ID: 31389 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbssorocaba001.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-16 12:25:57 | Host: DVR - Campo Verde | Severity: High | Status: RESOLVED | Event ID: 31387 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbssorocaba001.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-16 11:55:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31386 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 11:46:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31384 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 11:31:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31382 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 10:37:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31380 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 10:28:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31378 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 10:13:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31376 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 10:01:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31374 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 09:52:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31372 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 09:40:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31370 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 09:31:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31368 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 09:19:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31366 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 08:55:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31364 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 08:37:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31362 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 08:22:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31360 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 03:01:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31255 | Name: Antena Salvador - BA - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-16 02:26:39 | Host: DVR - Vila do Sol | Severity: High | Status: RESOLVED | Event ID: 31251 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbscampobelo100.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-15 23:00:53 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 31244 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-15 23:00:42 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 31243 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-15 14:02:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 31241 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-15 13:59:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 31239 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-15 13:22:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 31237 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-15 13:13:57 | Host: DVR - Campo Verde | Severity: High | Status: RESOLVED | Event ID: 31235 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbssorocaba001.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-15 12:06:31 | Host: Monitoramentos-Web | Severity: High | Status: RESOLVED | Event ID: 31233 | Name: WebSite GLMonitoria - falha de acesso. | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-15 09:53:57 | Host: DVR - Campo Verde | Severity: High | Status: RESOLVED | Event ID: 31129 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbssorocaba001.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-15 07:47:46 | Host: DVR - Campo Verde | Severity: High | Status: RESOLVED | Event ID: 31127 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbssorocaba001.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-15 05:49:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 31124 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-15 05:49:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 31123 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-15 05:01:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31112 | Name: Antena Recife - PE - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-15 04:58:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31111 | Name: Antena São Paulo - SP - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-15 03:53:44 | Host: DVR - Praia Branca | Severity: High | Status: RESOLVED | Event ID: 31107 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbspirituba100.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-15 03:01:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31100 | Name: Antena Salvador - BA - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-15 03:01:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 31099 | Name: Antena Belo Horizonte - MG | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-14 23:00:53 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 30994 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-14 23:00:42 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 30993 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-14 21:01:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 30986 | Name: Antena Belo Horizonte - MG | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-14 21:01:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 30985 | Name: Antena Recife - PE - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-14 16:34:54 | Host: DVR - Monte Claro | Severity: High | Status: RESOLVED | Event ID: 30982 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsscmaua10.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-14 16:34:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 30981 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-14 15:48:57 | Host: DVR - Campo Verde | Severity: High | Status: RESOLVED | Event ID: 30978 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbssorocaba001.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-14 15:48:46 | Host: DVR - Campo Verde | Severity: High | Status: RESOLVED | Event ID: 30977 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbssorocaba001.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-14 15:04:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 30973 | Name: Antena Salvador - BA - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-14 14:13:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 30870 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-14 11:22:38 | Host: DVR - Campos Verdes | Severity: High | Status: RESOLVED | Event ID: 30763 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsalphaville10.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-14 11:21:49 | Host: DVR - Campos Verdes | Severity: High | Status: RESOLVED | Event ID: 30762 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsalphaville10.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-14 00:31:04 | Host: Monitoramentos-Web | Severity: High | Status: RESOLVED | Event ID: 30654 | Name: WebSite GLMonitoria - falha de acesso. | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-13 23:00:54 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 30447 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-13 23:00:42 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 30446 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-13 21:01:37 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 30336 | Name: Antena Recife - PE - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-13 17:10:35 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 30232 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 	PROBLEMA: RESOLVIDO
+2024-12-13 16:32:37 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 30226 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-13 16:31:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 30225 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br	PROBLEMA: RESOLVIDO
+2024-12-13 16:31:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 30224 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS:	PROBLEMA: RESOLVIDO
