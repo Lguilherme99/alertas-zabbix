@@ -1,5 +1,6 @@
 Informações abaixo são de Histórico de alertas já RESOLVIDOS.
 
+2024-12-20 14:46:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 34710 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br
 2024-12-20 13:47:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 34708 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br
 2024-12-20 13:42:31 | Host: Monitoramentos-Web | Severity: High | Status: RESOLVED | Event ID: 34706 | Name: WebSite GLMonitoria - falha de acesso. | IP: 127.0.0.1 | DNS: 
 2024-12-20 13:20:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 34704 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br
