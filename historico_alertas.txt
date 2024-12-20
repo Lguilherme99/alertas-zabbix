@@ -1,5 +1,7 @@
 Informações abaixo são de Histórico de alertas já RESOLVIDOS.
 
+2024-12-19 23:00:53 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 34071 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br
+2024-12-19 23:00:42 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 34070 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br
 2024-12-19 21:01:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 34060 | Name: Antena Recife - PE - | IP: 127.0.0.1 | DNS: 
 2024-12-19 17:11:48 | Host: DVR - Nova Esperanca | Severity: High | Status: RESOLVED | Event ID: 33958 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsrpreto1.ddns-intelbras.com.br
 2024-12-19 14:43:48 | Host: DVR - Jardim Horizonte | Severity: High | Status: RESOLVED | Event ID: 33855 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbs2181.dyndns.org
@@ -237,5 +239,3 @@ Informações abaixo são de Histórico de alertas já RESOLVIDOS.
 2024-12-13 05:25:49 | Host: DVR - Campos Verdes | Severity: High | Status: RESOLVED | Event ID: 30023 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsalphaville10.ddns-intelbras.com.br
 2024-12-13 05:25:39 | Host: DVR - Campos Verdes | Severity: High | Status: RESOLVED | Event ID: 30022 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsalphaville10.ddns-intelbras.com.br
 2024-12-13 03:01:36 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 29814 | Name: Antena Salvador - BA - | IP: 127.0.0.1 | DNS: 
-2024-12-12 23:00:53 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 29709 | Name: Sem comunicação porta com a porta 37777 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br
-2024-12-12 23:00:43 | Host: DVR - Vale das Aguas | Severity: High | Status: RESOLVED | Event ID: 29708 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbsklabin10.ddns-intelbras.com.br
