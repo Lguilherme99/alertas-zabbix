@@ -221,4 +221,3 @@ Informações abaixo são de Histórico de alertas já RESOLVIDOS.
 2024-12-13 13:07:46 | Host: DVR - Campo Verde | Severity: High | Status: RESOLVED | Event ID: 30072 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbssorocaba001.ddns-intelbras.com.br
 2024-12-13 13:01:38 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 30070 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
 2024-12-13 12:56:46 | Host: DVR - Campo Verde | Severity: High | Status: RESOLVED | Event ID: 30068 | Name: Sem comunicação com porta a porta 9191 do DVR. | IP: 127.0.0.1 | DNS: jbssorocaba001.ddns-intelbras.com.br
-2024-12-13 12:22:37 | Host: Monitoramento-Antenas | Severity: High | Status: RESOLVED | Event ID: 30066 | Name: Antena Goiânia - GO - | IP: 127.0.0.1 | DNS: 
